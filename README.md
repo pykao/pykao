@@ -7,5 +7,3 @@
 - :mailbox_with_mail: How to reach me: [LinkedIn](https://www.linkedin.com/in/pykao/)|[E-Mail](mailto:po.yu.kao@gmail.com)
 
 [![Po-Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=pykao&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pykao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
