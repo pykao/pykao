@@ -6,4 +6,4 @@
 - :newspaper: [Google Scholar](https://scholar.google.com/citations?user=fSPYim4AAAAJ&hl=en)
 - :mailbox_with_mail: How to reach me: [LinkedIn](https://www.linkedin.com/in/pykao/)|[E-Mail](mailto:po.yu.kao@gmail.com)
 
-[![Po-Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=pykao&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Po-Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=pykao&show_icons=true&theme=gotham&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
