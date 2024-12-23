@@ -1,6 +1,5 @@
 ### Hi there, I'm Po-Yu 👋
 
-- :rocket: I’m currently working on silicon. 
 - :computer: I'm a silicon engineer at Google
 - :mortar_board: I hold a Ph.D. degree in Electrical and Computer Engineering at the University of California, Santa Barbara
 - :newspaper: [Google Scholar](https://scholar.google.com/citations?user=fSPYim4AAAAJ&hl=en)
